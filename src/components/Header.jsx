@@ -1,5 +1,5 @@
 import React from "react";
 const Header = () => {
-return (<div className="fixed z-50 w-screen bg-slate-300 p-6" style={{color:"black"}}>Header</div>);
+return (<div className="fixed z-50 w-screen bg-slate-300 p-6" >Header</div>);
 };
 export default Header;
